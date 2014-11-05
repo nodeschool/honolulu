@@ -1,4 +1,4 @@
-var path = require('path');
+
 var fs = require('fs');
 
 var dirpath = process.argv[2];
