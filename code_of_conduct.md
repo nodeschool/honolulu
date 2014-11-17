@@ -10,7 +10,7 @@ If a community member engages in harassing behavior, the organizers of the under
 
 ### Ohana.js/Nodeschool:
 
-* Organizers: George Lee
+* Organizers: George Lee (@keokilee)
 * Meetup URL: http://www.facebook.com/groups/ohanajs
 
 **If you have questions or feedback about this Code of Conduct please contact one of the organizers.**
