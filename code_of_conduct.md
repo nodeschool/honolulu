@@ -6,6 +6,8 @@ Harassment includes offensive verbal or written comments related to sex, gender 
 
 If a community member engages in harassing behavior, the organizers of the undersigned organizations  may take any action they deem appropriate, including warning the offender or expulsion from the community. If you are being harassed, notice that someone else is being harassed, or have any concerns, please contact your event's organizer immediately.
 
+tl;dr please don't be a jerk. Everyone is here because they want to share knowledge and/or learn.
+
 ## Current Meetups and their organizers.
 
 ### Ohana.js/Nodeschool:
