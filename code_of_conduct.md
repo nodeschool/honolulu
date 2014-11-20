@@ -12,7 +12,7 @@ tl;dr please don't be a jerk. Everyone is here because they want to share knowle
 
 ### Ohana.js/Nodeschool:
 
-* Organizers: George Lee
+* Organizers: George Lee (@keokilee)
 * Meetup URL: http://www.facebook.com/groups/ohanajs
 
 **If you have questions or feedback about this Code of Conduct please contact one of the organizers.**
